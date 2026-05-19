@@ -1,0 +1,92 @@
+[
+  {
+    "id": "01-local-business-hunter",
+    "name": "Local Business Hunter",
+    "slug": "local-business-hunter",
+    "description": "Finds local businesses by niche, city and opportunity signals. Built for agencies selling websites, CRM, automation and lead systems.",
+    "category": "lead-discovery",
+    "recommendedOffer": "Custom lead capture system, website modernization, CRM and automated follow-up",
+    "nextAction": "Send a short audit offer and invite the business owner to receive a free opportunity report"
+  },
+  {
+    "id": "02-website-technology-detector",
+    "name": "Website Technology Detector",
+    "slug": "website-technology-detector",
+    "description": "Analyzes business websites for outdated tech, weak automation, missing tracking and conversion gaps.",
+    "category": "website-analysis",
+    "recommendedOffer": "Website-to-software upgrade, chatbot, tracking, forms, CRM and automation package",
+    "nextAction": "Send a website weakness report with 3 urgent fixes"
+  },
+  {
+    "id": "03-social-presence-analyzer",
+    "name": "Social Presence Analyzer",
+    "slug": "social-presence-analyzer",
+    "description": "Reviews social presence signals and detects businesses that need content, branding and automated publishing.",
+    "category": "social-intelligence",
+    "recommendedOffer": "Automated content engine, AI avatar videos and social growth dashboard",
+    "nextAction": "Send a social visibility audit with content gaps"
+  },
+  {
+    "id": "04-high-intent-lead-detector",
+    "name": "High Intent Lead Detector",
+    "slug": "high-intent-lead-detector",
+    "description": "Detects businesses with buying intent signals such as hiring, running ads, expansion or active posting.",
+    "category": "intent-data",
+    "recommendedOffer": "Growth automation system and sales pipeline acceleration",
+    "nextAction": "Prioritize for direct outreach within 24 hours"
+  },
+  {
+    "id": "05-google-reviews-opportunity-scanner",
+    "name": "Google Reviews Opportunity Scanner",
+    "slug": "google-reviews-opportunity-scanner",
+    "description": "Finds reputation problems and customer experience gaps from public review patterns.",
+    "category": "reputation-intelligence",
+    "recommendedOffer": "Review automation, customer support AI and reputation management system",
+    "nextAction": "Send reputation recovery angle with review response automation"
+  },
+  {
+    "id": "06-lead-contact-extractor-pro",
+    "name": "Lead Contact Extractor PRO",
+    "slug": "lead-contact-extractor-pro",
+    "description": "Extracts contact points from websites and public business pages: emails, phones, forms and social links.",
+    "category": "contact-enrichment",
+    "recommendedOffer": "Verified prospect list plus outreach campaign setup",
+    "nextAction": "Validate contact and push to outreach sequence"
+  },
+  {
+    "id": "07-competitor-ad-intelligence",
+    "name": "Competitor Ad Intelligence",
+    "slug": "competitor-ad-intelligence",
+    "description": "Collects competitor marketing signals and ad angles to help create better offers and campaigns.",
+    "category": "competitive-intelligence",
+    "recommendedOffer": "Competitive campaign intelligence and ad funnel rebuild",
+    "nextAction": "Create competitor comparison report"
+  },
+  {
+    "id": "08-ai-lead-scoring-engine",
+    "name": "AI Lead Scoring Engine",
+    "slug": "ai-lead-scoring-engine",
+    "description": "Scores leads based on website, contactability, intent, reviews and estimated commercial value.",
+    "category": "lead-scoring",
+    "recommendedOffer": "Prioritized outbound list with best sales angle for each lead",
+    "nextAction": "Route high-priority leads to sales pipeline"
+  },
+  {
+    "id": "09-multi-platform-prospect-finder",
+    "name": "Multi-Platform Prospect Finder",
+    "slug": "multi-platform-prospect-finder",
+    "description": "Builds a complete prospect profile by combining signals from website, search, social and business directories.",
+    "category": "prospect-enrichment",
+    "recommendedOffer": "Full business intelligence profile and personalized proposal",
+    "nextAction": "Generate personalized outreach using all available signals"
+  },
+  {
+    "id": "10-automated-prospect-report-generator",
+    "name": "Automated Prospect Report Generator",
+    "slug": "automated-prospect-report-generator",
+    "description": "Creates a structured sales report for each prospect: weaknesses, opportunities, score, offer and next step.",
+    "category": "sales-reporting",
+    "recommendedOffer": "Premium audit report and system implementation proposal",
+    "nextAction": "Export report and send demo invitation"
+  }
+]

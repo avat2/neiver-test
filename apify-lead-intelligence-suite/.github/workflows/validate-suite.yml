@@ -1,0 +1,33 @@
+name: Validate Apify Suite
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Validate JSON
+        run: |
+          node -e "JSON.parse(require('fs').readFileSync('apify-lead-intelligence-suite/actors.json','utf8')); console.log('actors.json valid')"
+
+      - name: Generate actors
+        run: |
+          cd apify-lead-intelligence-suite
+          node tools/generate-actors.mjs
+
+      - name: List generated actors
+        run: |
+          find apify-lead-intelligence-suite/actors -maxdepth 1 -type d || true
